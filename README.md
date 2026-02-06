@@ -81,5 +81,3 @@ Dataset Attributes (13 features):
 - Wellbeing: Mental_Health_Score, Relationship_Status
 - Addiction: Addicted_Score, Conflicts_With_Family
 
-Team Project | OTH Amberg-Weiden | Programming Starter (PRS) – SoSe 2025
-Team Members: Poovallal Jayepalan, Somantha Manuranga, Sai Pavan Bolgani
